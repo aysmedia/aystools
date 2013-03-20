@@ -1,9 +1,6 @@
 # AYS Tools
     Project Home: http://aysmedia.com/code/tools/  
-    Project Demo: n/a  
     Code Home: http://github.com/aysmedia/aystools/  
-    Code Repository: git://github.com/aysmedia/aystools.git  
-    Report Issues: http://github.com/aysmedia/aystools/issues  
 
 
 # About
