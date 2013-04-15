@@ -1,6 +1,6 @@
 # AYS Tools
     Project Home: http://aysmedia.com/code/tools/  
-    Code Home: http://github.com/aysmedia/aystools/  
+    Source Code: http://github.com/aysmedia/aystools/  
 
 
 # About
