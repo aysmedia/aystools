@@ -28,7 +28,9 @@ NOTE: Whenever possible, we recommend that you use option #1, the git repository
 
 1. Use git right from your server to retrieve the source code. To do so, change to the directory where you want to install AYS Tools and run the following command:  
 
-        git clone git://github.com/aysmedia/aystools.git .  
+        git clone git://github.com/aysmedia/aystools.git  
+
+    The AYS Tools files will now be saved in a local directory called /aystools/.  
 
 2. Visit the following URL to download the most recent source code archive: https://github.com/aysmedia/aystools/archives/master  
 
@@ -36,7 +38,7 @@ NOTE: Whenever possible, we recommend that you use option #1, the git repository
 # Installation
 1. Please choose from one of the following two options:  
 
-    If you used git to retrieve the source code in the previous step, just change to the directory where you ran the git command and your files are already waiting for you.  
+    If you used git to retrieve the source code in the previous step, just change to the directory where you ran the git command and your files are already waiting for you in a folder called /aystools/. Feel free to rename this folder to whatever you want.  
 
     If you downloaded the source code in the previous step, you will now need to upload the archive to your server and then unpack it into the folder where you wish to install.  
 
