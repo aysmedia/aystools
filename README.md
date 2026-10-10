@@ -1,5 +1,6 @@
 # AYS Tools
-    Project Home: http://aysmedia.com/code/tools/  
+**Archived.** No longer maintained; kept for reference.  
+
     Source Code: http://github.com/aysmedia/aystools/  
 
 
@@ -28,7 +29,7 @@ NOTE: Whenever possible, we recommend that you use option #1, the git repository
 
 1. Use git right from your server to retrieve the source code. To do so, change to the directory where you want to install AYS Tools and run the following command:  
 
-        git clone git://github.com/aysmedia/aystools.git  
+        git clone https://github.com/aysmedia/aystools.git  
 
     The AYS Tools files will now be saved in a local directory called /aystools/.  
 
@@ -58,9 +59,7 @@ You have two options for upgrading the AYS Tools.
 
 
 # Support
-If you have any questions or comments please visit http://aysmedia.com or email us at code@aysmedia.com.  
-
-To report bugs, please visit http://github.com/aysmedia/aystools/issues  
+This project is archived and no longer supported.  
 
 
 # License
